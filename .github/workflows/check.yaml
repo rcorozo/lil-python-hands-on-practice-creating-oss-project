@@ -20,4 +20,5 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install tox
+        cd ./before
         tox
