@@ -1,4 +1,4 @@
-# Create an Open-Source Project in Python
+# Create an Open-Source Project in Python 
 This is the repository for the LinkedIn Learning course Create an Open-Source Project in Python. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Create an Open-Source Project in Python][lil-thumbnail-url] 
