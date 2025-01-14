@@ -22,3 +22,8 @@ jobs:
         python -m pip install tox
         cd ./before
         tox
+    - name: Upload results to Codecov
+      uses: codecov/codecov-action@v5
+      with:
+        files: ./coverage.xml
+        #token: ${{ secrets.CODECOV_TOKEN }}
